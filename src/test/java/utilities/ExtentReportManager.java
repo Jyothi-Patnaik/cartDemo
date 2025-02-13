@@ -115,6 +115,7 @@ public class ExtentReportManager implements ITestListener {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+	
 
 
 		try {
@@ -122,7 +123,7 @@ public class ExtentReportManager implements ITestListener {
 			 URL url = new File(System.getProperty("user.dir") + File.separator + "reports" + File.separator + repName).toURI().toURL();
 
 
-			  // Create the email message 
+		/*	  // Create the email message 
 			  ImageHtmlEmail email = new ImageHtmlEmail();
 			  email.setDataSourceResolver(new DataSourceUrlResolver(url));
 //			  email.setHostName("smtp.googlemail.com"); 
@@ -140,16 +141,15 @@ public class ExtentReportManager implements ITestListener {
 			  email.addTo("reportextent9@gmail.com"); //Receiver 
 			  email.attach(url, "extent report", "please check report..."); 
 			  email.send(); // send the email 
-			  }
+		*/	  }
+		
 			  catch(Exception e) 
 			  { 
 				  e.printStackTrace(); 
 				  }
-		// */ 
-
-	}
-
+		
 }
-
+	
+}
 
 

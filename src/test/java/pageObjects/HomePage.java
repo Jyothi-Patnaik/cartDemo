@@ -9,7 +9,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends BasePage{
 
-	public HomePage(WebDriver driver) 
+	public HomePage(WebDriver driver)                                                    
 	{
 
 		super(driver);
@@ -20,11 +20,11 @@ public class HomePage extends BasePage{
 	//@FindBy(xpath="//span[normalize-space()='My Account']")
 
 
-	@FindBy(xpath="//i[@class='fa fa-user']")
+	@FindBy(xpath="//i[@class='fa-solid fa-user']")
 	WebElement btnMyAccount;
 
 
-	@FindBy(xpath="//a[normalize-space()='Register']")
+    @FindBy(xpath="//a[normalize-space()='Register']")
 	WebElement btnRegister;
 
 
@@ -54,3 +54,9 @@ public class HomePage extends BasePage{
 
 	}
 }
+
+
+
+
+
+

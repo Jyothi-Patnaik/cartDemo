@@ -14,9 +14,12 @@
     <classes>
       
 	  <class name="testCases.TC01_AccountRegistration"/>
-      <class name="testCases.TC02_Login_Account"/>
+     <class name="testCases.TC02_Login_Account"/>
     <!--   <class name="testCases.TC04_RegistrationDDT"/>-->
-     
+     <class name="testCases.TC_05_Search_and_add_Product"/>
+     <class name="testCases.TC_06_ViewCartPage"/>
+      <class name="testCases.TC_07_CheckOutPage"/>
+      
     </classes>
     
   </test> <!-- Test -->

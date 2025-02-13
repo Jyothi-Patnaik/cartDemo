@@ -1,9 +1,280 @@
-2024-11-29 13:09:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
-2024-11-29 13:09:46 INFO  TC01_AccountRegistration:17 - ***Execution Started***
-2024-11-29 13:09:46 INFO  TC01_AccountRegistration:23 - ***Click on My account***
-2024-11-29 13:09:46 INFO  TC01_AccountRegistration:24 - ***Click on Register***
-2024-11-29 13:09:47 INFO  TC01_AccountRegistration:36 - ***Click on agree***
-2024-11-29 13:09:53 INFO  TC01_AccountRegistration:64 - *******EXECUTION COMPLETED*******
-2024-11-29 13:09:57 INFO  TC02_Login_Account:15 - Started Execution
-2024-11-29 13:10:00 INFO  TC02_Login_Account:29 - Logged in successfully
-2024-11-29 13:10:02 INFO  TC02_Login_Account:43 - Test Completed
+2025-02-12 10:20:16 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 10:20:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 12:05:57 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 12:05:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 14:05:54 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 14:05:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 14:09:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 14:09:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 14:11:00 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 14:11:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:19:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:19:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:20:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:20:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:21:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:21:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:24:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:24:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:26:54 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:26:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:30:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:30:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:32:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:32:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:33:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:33:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:35:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:35:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:36:28 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:36:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:38:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:38:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:41:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:41:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:43:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:43:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:47:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:47:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:49:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:49:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:53:27 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:53:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:54:39 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:54:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:55:58 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:55:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:57:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:57:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 15:59:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 15:59:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 16:00:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 16:00:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:44:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:44:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:46:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:46:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:48:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:48:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:49:37 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:49:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:50:38 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:50:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:52:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:52:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:53:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:53:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:54:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:54:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:54:47 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:54:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 17:55:27 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 17:55:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:00:15 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:00:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:00:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:00:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:01:50 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:01:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:02:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:02:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:03:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:03:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:06:11 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:06:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:07:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:07:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:11:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:11:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:12:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:12:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:13:51 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:13:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:14:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:14:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:17:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:17:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:18:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:18:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:20:53 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:20:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:21:34 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:21:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:22:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:22:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:23:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:23:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:39:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:39:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:40:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:40:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:41:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:41:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:42:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:42:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 18:44:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 18:44:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 20:41:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 20:41:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 20:44:13 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 20:44:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 20:46:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 20:46:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 20:48:57 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 20:48:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 20:49:01 INFO  TC01_AccountRegistration:17 - ***Execution Started***
+2025-02-12 20:49:01 INFO  TC01_AccountRegistration:23 - ***Click on My account***
+2025-02-12 20:49:01 INFO  TC01_AccountRegistration:24 - ***Click on Register***
+2025-02-12 20:49:03 INFO  TC01_AccountRegistration:36 - ***Click on agree***
+2025-02-12 20:49:08 INFO  TC01_AccountRegistration:64 - *******EXECUTION COMPLETED*******
+2025-02-12 20:49:11 INFO  TC02_Login_Account:15 - Started Execution
+2025-02-12 20:49:12 INFO  TC02_Login_Account:29 - Logged in successfully
+2025-02-12 20:49:14 INFO  TC02_Login_Account:43 - Test Completed
+2025-02-12 22:10:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 22:10:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 22:10:28 INFO  TC01_AccountRegistration:17 - ***Execution Started***
+2025-02-12 22:10:28 INFO  TC01_AccountRegistration:23 - ***Click on My account***
+2025-02-12 22:10:28 INFO  TC01_AccountRegistration:24 - ***Click on Register***
+2025-02-12 22:10:30 INFO  TC01_AccountRegistration:36 - ***Click on agree***
+2025-02-12 22:10:35 INFO  TC01_AccountRegistration:64 - *******EXECUTION COMPLETED*******
+2025-02-12 22:10:40 INFO  TC02_Login_Account:15 - Started Execution
+2025-02-12 22:10:41 INFO  TC02_Login_Account:29 - Logged in successfully
+2025-02-12 22:10:44 INFO  TC02_Login_Account:43 - Test Completed
+2025-02-12 22:20:16 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml"
+2025-02-12 22:20:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Jyothi\eclipse-workspace\cartDemo\testngMasterSuite.xml
+
+2025-02-12 22:20:21 INFO  TC01_AccountRegistration:17 - ***Execution Started***
+2025-02-12 22:20:21 INFO  TC01_AccountRegistration:23 - ***Click on My account***
+2025-02-12 22:20:21 INFO  TC01_AccountRegistration:24 - ***Click on Register***
+2025-02-12 22:20:23 INFO  TC01_AccountRegistration:36 - ***Click on agree***
+2025-02-12 22:20:28 INFO  TC01_AccountRegistration:64 - *******EXECUTION COMPLETED*******
+2025-02-12 22:20:31 INFO  TC02_Login_Account:15 - Started Execution
+2025-02-12 22:20:32 INFO  TC02_Login_Account:29 - Logged in successfully
+2025-02-12 22:20:34 INFO  TC02_Login_Account:43 - Test Completed

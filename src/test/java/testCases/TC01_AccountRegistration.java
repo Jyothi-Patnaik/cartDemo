@@ -28,11 +28,11 @@ public class TC01_AccountRegistration extends BaseClass{
 	rp.setFirstName(randomString().toUpperCase());
 	rp.setLastName(randomString().toLowerCase());
 	rp.setemail(randomString()+"@yopmail.com");
-	rp.setNumber(randomNumeric());
+	//rp.setNumber(randomNumeric());
 	
-	String cpassword = randomAlphaNumeric();
+	String cpassword = p.getProperty("password");
 	rp.setpassword(cpassword);
-	rp.setconfirmpassword(cpassword);
+	//rp.setconfirmpassword(cpassword);
 	logger.info("***Click on agree***");
 
 	rp.clickAgreeBtn();

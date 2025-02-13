@@ -11,9 +11,11 @@ import java.util.Properties;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -56,7 +58,7 @@ public Properties p;
 	 public void tearDown() 
     {
 	
-		 driver.quit();
+		// driver.quit();
 	 }
 
 
@@ -69,7 +71,7 @@ public String randomString()
 
 public String randomNumeric()
 {
-	String generatedNumber=RandomStringUtils.randomNumeric(10);
+	String generatedNumber=RandomStringUtils.randomNumeric(6);
 	return generatedNumber;
 }
 
@@ -93,6 +95,7 @@ public String captureScreen(String tname) throws IOException {
 	return targetFilePath;
 
 }
+
 
 
 }

@@ -12,7 +12,9 @@ public class MyAccountPage extends BasePage{
 	}
 
 
-	@FindBy(xpath="//h2[normalize-space()='My Account']")
+	
+
+    @FindBy(xpath="//h1[normalize-space()='My Account']")
 	WebElement MyAccountText;
 
 

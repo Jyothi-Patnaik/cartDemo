@@ -16,28 +16,34 @@ public class RegistrationPage extends BasePage {
 			
 		}
 		
-@FindBy(xpath="//input[@id='input-firstname']") 
+@FindBy(xpath="//input[@id='input-firstname']")
 WebElement firstName;
-@FindBy(xpath="//input[@id='input-lastname']") 
+@FindBy(xpath="//input[@id='input-lastname']")
 WebElement LastName;
+
 @FindBy(xpath="//input[@id='input-email']")
 WebElement email;
 
-@FindBy(xpath="//input[@id='input-telephone']")
-WebElement mobNumbr;
+//@FindBy(xpath="//input[@id='input-telephone']")
+//WebElement mobNumbr;
+
 @FindBy(xpath="//input[@id='input-password']") 
 WebElement password;
 
-@FindBy(xpath="//input[@id='input-confirm']")
-WebElement confirmpassword;
-@FindBy(xpath="//input[@name='agree']") 
+//@FindBy(xpath="//input[@id='input-confirm']")
+//WebElement confirmpassword;
+@FindBy(xpath="//input[@name='agree']")
 WebElement agreeBtn;
-@FindBy(xpath="//input[@value='Continue']")
+
+
+@FindBy(xpath="//button[normalize-space()='Continue']")
 WebElement continueBtn;
 
 
 @FindBy(xpath="//h1[normalize-space()='Your Account Has Been Created!']")
 WebElement confirmantionMsg;
+
+
 
 public void setFirstName(String fName)
 {
@@ -52,22 +58,24 @@ public void setLastName(String lName)
 public void setemail(String mail)
 {
 	email.sendKeys(mail);
+	System.out.println(mail);
 }
 
-public void setNumber(String phNo)
-{
-	mobNumbr.sendKeys(phNo);
-}
+//public void setNumber(String phNo)
+//{
+//	mobNumbr.sendKeys(phNo);
+//}
 
 public void setpassword(String pswd)
 {
 	password.sendKeys(pswd);
+	System.out.println(pswd);
 }
 
-public void setconfirmpassword(String cpswd)
-{
-	confirmpassword.sendKeys(cpswd);
-}
+//public void setconfirmpassword(String cpswd)
+//{
+//	confirmpassword.sendKeys(cpswd);
+//}
 
 
 public void clickAgreeBtn()
